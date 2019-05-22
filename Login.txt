@@ -1,4 +1,6 @@
 public void m1(){
 system.println( "welcome to java")
 system.println( "welcome to DevOps")
+
+system.println("hello")
 }
